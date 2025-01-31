@@ -1,0 +1,15 @@
+streamlit
+opencv-python-headless
+numpy
+speechrecognition
+librosa
+dlib
+deepface
+requests
+ffmpeg-python
+werkzeug
+uuid
+scipy
+mediapipe
+pypdf2
+regex
