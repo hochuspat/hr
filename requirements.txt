@@ -3,8 +3,6 @@ opencv-python-headless
 numpy
 speechrecognition
 librosa
-dlib
-deepface
 requests
 ffmpeg-python
 werkzeug
@@ -13,3 +11,13 @@ scipy
 mediapipe
 pypdf2
 regex
+face-recognition
+tensorflow
+keras
+flask
+flask-cors
+gdown
+mtcnn
+retina-face
+fire
+gunicorn
